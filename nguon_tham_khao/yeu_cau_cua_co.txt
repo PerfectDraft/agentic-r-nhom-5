@@ -1,0 +1,66 @@
+﻿Cách tính điểm:
+* Điểm giữa kỳ (40%) tính bằng điểm trình bày + slide + QA tại lớp, có thể được cân đối thêm bằng điểm chuyên cần.
+* Điểm cuối kỳ (60%) được tính bằng trung bình cộng của điểm báo cáo BTL và điểm thi trắc nghiệm cuối kỳ.
+* Điểm phát biểu và điểm đặt câu hỏi sẽ được cộng vào điểm giữa kỳ. Phần dư do vượt quá 10 sẽ được * 0.3 và chuyển sang điểm cuối kỳ.
+
+
+Yêu cầu về bài tập trình bày giữa kỳ:
+1. Sinh viên trình bày các tìm hiểu và phân tích được về chủ đề đã lựa chọn.
+2. Các bài báo là gợi ý - không cần bắt buộc sử dụng đúng các bài báo đó và đúng số lượng đó. Sinh viên có thể chọn các bài khác, cần đảm bảo các tiêu chí: 
+* Các bài cùng chủ đề đã chọn, được nhóm thống nhất lựa chọn.
+* Cần có chiến lược lựa chọn phù hợp (ví dụ, chọn các bài cùng hướng, được nâng cấp dần; hoặc chọn các hướng khác nhau để giải quyết cùng một bài toán). 
+* Đảm bảo các bài được lựa chọn cần là bài báo uy tín (hội nghị, tạp chí uy tín hoặc đã được cite rất nhiều lần).
+* Số lượng bài báo tham khảo phụ thuộc vào khả năng của nhóm.
+
+
+3. Code và kết quả
+* Việc chạy lại code được cung cấp cùng bài báo là không bắt buộc, nhưng chạy lại được và có đánh giá về tốc độ, kết quả, phân tích lỗi… là điểm cộng.
+
+
+4. Sản phẩm cần nộp
+* Slide: Nộp trước buổi học cho cô qua phần nộp slide trên LMS và gửi cho các bạn qua zalo của lớp để các bạn tìm hiểu trước.
+* Báo cáo: Nộp sau ngày thi cuối kỳ.
+
+
+5. Thời gian và thời lượng trình bày
+* Thời gian: Tuần 13-14-15.
+* Thứ tự trình bày: Các nhóm có thể xung phong trình bày vào tuần 13, các thứ tự còn lại sẽ được bốc thăm ngẫu nhiên.
+* Thời lượng: 20 phút trình bày & 10 phút QA. Các nhóm cần tập trình bày trước để không bị vượt quá nhiều thời gian, cô sẽ buộc phải cắt ngang.
+
+
+________________
+
+
+6. Gợi ý về bố cục trình bày
+* Giới thiệu:
+   * Định nghĩa bài toán, đầu vào đầu ra, ví dụ minh họa
+   * Những khó khăn, thách thức, bài toán con cần giải quyết (ngắn gọn)
+   * Giới thiệu các bài báo được lựa chọn
+* Các nghiên cứu liên quan: Các hướng tiếp cận nền tảng, ưu nhược điểm & định vị các nội dung nhóm sẽ giới thiệu trong báo cáo nằm ở nhánh nào (quan trọng) .
+* Phân tích, so sánh các nghiên cứu được lựa chọn theo hướng tiếp cận hoặc vấn đề cần giải quyết:
+   * Không trình bày theo dạng các bản tóm tắt độc lập của từng bài báo. Cần làm rõ mối liên hệ và khác biệt giữa các nghiên cứu.
+   * Đối với các phương pháp tiêu biểu, cần giải thích ý tưởng và cơ chế hoạt động: phương pháp xử lý đầu vào như thế nào, các thành phần chính đóng vai trò gì và vì sao thiết kế đó có thể giải quyết vấn đề đặt ra. Sử dụng sơ đồ hoặc ví dụ minh họa phù hợp.
+   * Nhóm lựa chọn hoặc kết hợp các cách phân tích dưới đây tùy theo mối quan hệ giữa các nghiên cứu; không bắt buộc áp dụng đủ cả ba trường hợp: 
+      * Nếu các nghiên cứu thuộc các hướng tiếp cận khác nhau để giải quyết cùng một bài toán: Phân tích ưu nhược điểm,…
+      * Nếu các nghiên cứu giải quyết các vấn đề/thành phần khác nhau của một bài toán lớn: Đánh giá tính phức tạp, phạm vi giải quyết, khả năng kết hợp,…
+      * Nếu các nghiên cứu thể hiện sự phát triển của một hướng tiếp cận: chỉ ra hạn chế hoặc khoảng trống của các phương pháp trước, nghiên cứu sau thay đổi thành phần/cơ chế nào để giải quyết, bằng chứng về hiệu quả và những đánh đổi phát sinh,…
+* Kết quả thực nghiệm:
+   * Giới thiệu các độ đo chính.
+   * Giới thiệu dữ liệu nổi bật, thống kê phân tích cơ bản.
+   * Các kết quả có thể so sánh trực tiếp không? Trong điều kiện đánh giá tương đương, phương pháp nào đạt kết quả tốt hơn và ở khía cạnh nào? 
+   * Kết quả thực nghiệm có hỗ trợ những ưu điểm mà tác giả đưa ra không? 
+   * Đánh giá và nhận xét của nhóm.
+* Kết luận:
+   * Nhận xét về xu hướng nghiên cứu.
+   * Các khoảng trống nghiên cứu còn tồn tại.
+
+
+Ưu tiên thời lượng cho việc giải thích và so sánh các phương pháp tiêu biểu. Phần dữ liệu và độ đo chỉ tập trung vào những đặc điểm cần thiết để hiểu, đánh giá và đối chiếu kết quả; các thống kê chi tiết có thể đưa vào báo cáo. 
+
+
+7. Yêu cầu về báo cáo
+* Báo cáo phải được viết bằng tiếng Việt
+* Báo cáo phải sử dụng thuật ngữ chính xác, diễn đạt rõ ràng và thể hiện sự hiểu biết của nhóm. Các lỗi dịch sai nghĩa, sai kiến thức, lập luận thiếu căn cứ, trích dẫn không có thật hoặc nội dung nhóm không giải thích được khi hỏi đáp sẽ bị trừ điểm nặng.
+* Mọi dấu hiệu được sinh bởi AI (dịch ngang nghĩa thuật ngữ, câu tối nghĩa, v.v..) đều sẽ bị trừ điểm rất nặng.
+* Font Times New Roman size 13, giãn dòng 1.3 line, căn lề chuẩn, tối thiểu 30 trang nội dung và có làm mục lục.
+* Báo cáo bám theo cấu trúc của bài trình bày, đồng thời trình bày chi tiết cơ chế của các phương pháp, thiết lập thực nghiệm, kết quả và các bảng thống kê, so sánh. Các nhận xét, đánh giá phải có căn cứ và trích dẫn nguồn cụ thể. Nội dung chính được tổ chức theo vấn đề hoặc hướng tiếp cận, thể hiện mối liên hệ giữa các nghiên cứu.

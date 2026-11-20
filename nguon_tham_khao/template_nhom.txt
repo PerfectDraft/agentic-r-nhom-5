@@ -1,0 +1,72 @@
+﻿1. Bài toán nghiên cứu (Problem)
+* Paper giải quyết vấn đề cụ thể gì?
+* Paper thuộc hướng nghiên cứu nào của Agentic Retrieval?
+* Phương pháp trước gặp hạn chế nào?
+* Cho một ví dụ minh họa hạn chế đó.
+2. Phương pháp đề xuất (Method)
+* Input và output là gì?
+* Các thành phần của hệ thống?
+* Pipeline hoạt động từng bước như thế nào? (Vẽ sơ đồ)
+* LLM/Agent tự quyết định gì? Con người thiết kế cố định gì?
+* Khi nào hệ thống truy xuất tài liệu? Query được tạo như thế nào?
+* Điều kiện dừng của hệ thống là gì?
+* Điểm cải tiến quan trọng nhất?
+3. Huấn luyện (Training – nếu có)
+* Phương pháp sử dụng prompting, training hay kết hợp?
+* Thành phần nào được huấn luyện: LLM hay retriever?
+* Dữ liệu huấn luyện là gì?
+* Loss function, reward hoặc tín hiệu học là gì?
+* Với paper không huấn luyện mô hình mới, ghi rõ "Không áp dụng".
+4. Thực nghiệm (Experiments)
+* Dataset sử dụng? Quy mô và đặc điểm nổi bật của dữ liệu?
+* Các độ đo (metrics) là gì? Ý nghĩa của từng độ đo?
+* Các phương pháp baseline được so sánh?
+* Thiết lập thực nghiệm: LLM, retriever, nguồn tài liệu, các tham số quan trọng?
+* Kết quả định lượng của phương pháp đề xuất so với baseline? (Lập bảng)
+* 2–3 kết quả nổi bật nhất và mức độ cải thiện?
+* Có ablation study không? Kết quả chứng minh vai trò của thành phần nào?
+* Kết quả thực nghiệm có thực sự chứng minh được ưu điểm tác giả đưa ra không?
+* Những hạn chế trong thiết lập và kết quả thực nghiệm?
+5. Đánh giá (Strengths & Limitations)
+* Điểm mạnh có bằng chứng.
+* Hạn chế và đánh đổi: accuracy, latency, retrieval cost, training cost...
+* Phương pháp phù hợp với những bài toán hoặc trường hợp nào?
+6. Liên kết với các paper khác (Quan trọng nhất)
+* Paper này giống và khác paper nào?
+* Nó giải quyết hạn chế gì của phương pháp trước?
+* Nó có thể bổ trợ phương pháp nào?
+* Nó cải thiện thành phần nào trong hệ thống Agentic Retrieval?
+
+
+Paper
+	Câu hỏi bắt buộc phải làm rõ
+	
+
+	ReAct
+	Thought–Action–Observation hoạt động thế nào? Agent tự quyết định hành động đến mức nào?
+	Mai
+	IRCoT
+	CoT được dùng để dẫn dắt truy xuất tiếp theo như thế nào? Khác ReAct ở đâu?
+	Ánh
+	FLARE
+	Khi nào hệ thống quyết định truy xuất? Tại sao dự đoán câu sắp sinh giúp giảm thiếu thông tin?
+	My
+	Search-R1
+	RL thay đổi chính sách tìm kiếm của LLM như thế nào? Reward được thiết kế ra sao?
+	Huân
+	Agentic-R
+	Retriever được huấn luyện như thế nào? Tại sao tài liệu liên quan chưa chắc đã hữu ích cho đáp án cuối?
+	Hưng
+	Data-Centric
+	Những loại dữ liệu nào cần cho Agentic RAG? Dataset và benchmark nào phù hợp với BTL của nhóm?
+	all
+	
+
+
+
+* Trả lời câu hỏi theo template cho mỗi bài. Chú ý 1 -2 -3 là 1 nhóm, 4- 5 là 1 nhóm, xin hãy trao đổi với nhau để biet và so sánh với nhau ;.; 
+* DL đọc báo: 12h T7 21/11
+
+
+* Trình bày đầu tiên ngày 10/12
+* 3 tuần làm (tuần đầu đọc báo, tuần 2 code, tuần 3 viết báo cáo)
