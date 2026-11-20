@@ -98,4 +98,6 @@ Prompt này chỉ để copy sang agent khác; chưa được gửi tự động
 
 - **21/11/2026 (Codex, tạo repo).** Thư mục `Bao_so_6/` là gốc repo, nhánh `main` dùng remote `origin` tại [PerfectDraft/agentic-r-nhom-5](https://github.com/PerfectDraft/agentic-r-nhom-5). Repo GitHub được tạo ở chế độ private. `.gitignore` giữ các bản render tạm, gói bàn giao cũ và ba trang HTML chẩn đoán ở máy local.
 
+- **21/11/2026.** Theo yêu cầu người dùng, đã chuyển repo sang public và kiểm tra trạng thái `PUBLIC` trên GitHub.
+
 Khi cập nhật tiếp, bổ sung: ngày, yêu cầu mới, công việc/file đã đổi, kiểm tra đã thực hiện, phần chưa giải quyết và hành động tiếp theo. Không chép toàn bộ chat vào đây.
